@@ -1,6 +1,6 @@
 # Resolução de Exercícios do Curso +PraTI
 
-## !5 exercícios para prática de JS (com Node.js)
+## 15 exercícios para prática de JS (com Node.js)
 
 ## 🐳 Como Rodar o Projeto via Docker
 
@@ -18,7 +18,7 @@ cd \MaisPraTi\Lista de Exercícios 01 - JS no BackEnd
 # Suba o ambiente
 docker compose up --build
 
-# Rode o exercício que quser (1-15)
+# Rode o exercício que quiser (1-15)
 docker-compose run --rm node-exercicios node Exercícios/[Número do exercício aqui].js
 
 ```
